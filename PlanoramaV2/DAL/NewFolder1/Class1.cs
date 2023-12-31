@@ -8,5 +8,6 @@ namespace DAL.NewFolder1
 {
     internal class Class1
     {
+
     }
 }
