@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="Model\NewClass.cs" />
     <Compile Include="NewFolder1\Class1.cs" />
+    <Compile Include="NewFolder3\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
