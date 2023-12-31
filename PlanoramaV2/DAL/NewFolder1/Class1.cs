@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Models
+namespace DAL.NewFolder1
 {
-    public class FoodsCategory
+    internal class Class1
     {
-
     }
 }
