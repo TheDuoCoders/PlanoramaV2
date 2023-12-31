@@ -8,5 +8,6 @@ namespace DAL.Model
 {
     public class NewClass
     {
+
     }
 }
